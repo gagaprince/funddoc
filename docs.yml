@@ -1,0 +1,4 @@
+remove: false
+docs_dir: ./deploy/
+builder:
+  name: html
